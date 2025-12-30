@@ -70,11 +70,18 @@ Spectrogram-based representations are physically motivated in underwater acousti
 
 The notebook does **not** perform model training; it focuses on **signal analysis and visualization**. It can be extended to feature extraction, CNN-based learning pipelines, knowledge distillation experiments, and in-distribution/out-of-distribution (ID/OOD) evaluations. Figure layouts are intended for direct inclusion in IEEE-style papers.
 
-## Dataset Reference
+## Dataset Citation
 
-If this code is used in academic work, please cite the original dataset:
+If this code or derived results are used in academic work, please cite the dataset as follows:
 
-van Walree et al., *SFI Smart Ocean Dataset for Acoustic Communications (SODAC)*, 2025.
+**Paul van Walree**, **Roald Otnes**, **Beatrice Tomasi**, **Bård Henriksen**, **Jean-Baptiste Danre**, and **Øivind Bergh**,  
+*SFI Smart Ocean Dataset for Underwater Acoustic Communications*,  
+IEEE DataPort, 2025.  
+DOI: **10.21227/3aa6-4k33**  
+Research article: https://doi.org/10.1109/IEEEDATA.2025.3577998  
+Dataset page: https://ieee-dataport.org/open-access/sfi-smart-ocean-dataset-underwater-acoustic-communications
+
+**Data formats:** WAV, CSV, JPG, ZIP.
 
 ## Intended Use
 
